@@ -209,3 +209,17 @@ ul{
     background-color: azure;
 }
 
+.footer{
+    display: flex;
+    position: fixed;
+    background-color: #1F2937;
+    bottom: 0;
+    width: 100%;
+    color:#F9FAF8;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
